@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+#direcotrys of platfor.io
+.pio/
+.vscode/
